@@ -9,27 +9,27 @@
 
 ## 2. Supervised Learning: Linear Models
 
-- Lab3: Solving a Regression Task
-- Lab4: Solving a Classification Task
+- Lab3: Solving a Regression Task [Solution](https://ml-course.github.io/master/labs/Lab%201a%20-%20Linear%20Models%20for%20Regression%20Solution)
+- Lab4: Solving a Classification Task [Solution](https://ml-course.github.io/master/labs/Lab%201b%20-%20Linear%20Models%20for%20Classification%20Solution)
 
 ## 3. Supervised Learning: Kernelization
 
-- Lab5: Kernel Methods
+- Lab5: Kernel Methods [Solution](https://ml-course.github.io/master/labs/Lab%202a%20-%20Kernelization%20Solution)
 
 ## 4. Supervised Learning: Model Slection and Ensemble Learning
 
-- Lab6: Model Selection
-- Lab7: ensemble Learning
+- Lab6: Model Selection   [Solution](https://ml-course.github.io/master/labs/Lab%202b%20-%20Model%20Selection%20Solution)
+- Lab7: ensemble Learning [Solution](https://ml-course.github.io/master/labs/Lab%203%20-%20Ensembles%20Solution)
 
 ## 5. Unsupervised Learning: Dimension Reduction and Clustering
 
-- Lab8: Unsupervised Learning
+- Lab8: Unsupervised Learning 
 
 ## 6. Introduction to Neural Networks
 
-- Lab9: MNIST data analysis
-- Lab10: CIFAR10 data analysis
-- Lab11: Sentiment Analysis
+- Lab9: MNIST data analysis [Solution](https://ml-course.github.io/master/labs/Lab%206%20-%20Neural%20Networks%20Solution)
+- Lab10: CIFAR10 data analysis [Solution](https://www.kaggle.com/code/capitaindata/lab09)
+- Lab11: Sentiment Analysis [Solution](https://www.kaggle.com/code/capitaindata/lab10)
 
 ## Final Project
 
